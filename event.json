@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Event"
+  },
+  {
+    "id": 2,
+    "name": "Event25",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "Attribute_event25",
+    "parent": 2
+  },
+  {
+    "id": 4,
+    "name": "Attribute2_event25",
+    "parent": 3,
+    "size": 3938
+  },
+  {
+    "id": 5,
+    "name": "Attribute3_event25",
+    "parent": 3,
+    "size": 3812
+  },
+  {
+    "id": 6,
+    "name": "Attribute4_event25",
+    "parent": 3,
+    "size": 6714
+  },
+    {
+    "id": 7,
+    "name": "Event7",
+    "parent": 1
+  },
+    {
+    "id": 8,
+    "name": "Attribute1_event7",
+    "parent": 7,
+    "size": 6714
+  }
+  ]
