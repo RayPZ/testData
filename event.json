@@ -5,29 +5,29 @@
   },
   {
     "id": 2,
-    "name": "Event25",
+    "name": "Event26",
     "parent": 1
   },
   {
     "id": 3,
-    "name": "Attribute_event25",
+    "name": "Attribute_event26",
     "parent": 2
   },
   {
     "id": 4,
-    "name": "Attribute2_event25",
+    "name": "Attribute2_event26",
     "parent": 3,
     "size": 3938
   },
   {
     "id": 5,
-    "name": "Attribute3_event25",
+    "name": "Attribute3_event26",
     "parent": 3,
     "size": 3812
   },
   {
     "id": 6,
-    "name": "Attribute4_event25",
+    "name": "Attribute4_event26",
     "parent": 3,
     "size": 6714
   },
@@ -40,6 +40,42 @@
     "id": 8,
     "name": "Attribute1_event7",
     "parent": 7,
+    "size": 6714
+  },
+      {
+    "id": 9,
+    "name": "Attribute2_event7",
+    "parent": 7,
+    "size": 6714
+  },
+      {
+    "id": 10,
+    "name": "Attribute3_event7",
+    "parent": 7,
+    "size": 6714
+  },
+        {
+    "id": 11,
+    "name": "Attribute4_event7",
+    "parent": 7,
+    "size": 6714
+  },
+      {
+    "id": 12,
+    "name": "Event5",
+    "parent": 1
+  },
+          {
+    "id": 13,
+    "name": "Attribute1_event5",
+    "parent": 12,
+    "size": 6714
+  },
+  
+            {
+    "id": 14,
+    "name": "Attribute2_event5",
+    "parent": 12,
     "size": 6714
   }
   ]
